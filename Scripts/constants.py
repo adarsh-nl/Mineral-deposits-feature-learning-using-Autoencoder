@@ -1,0 +1,1 @@
+BASE_PATH = 'C:\Adarsh work\personal\IIITS\Remote Sensing\\'
